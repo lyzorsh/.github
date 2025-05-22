@@ -1,10 +1,10 @@
 <div align="center">
   <img width="200px" src="../icon.png" />
   <br>
-  <h1>vxnet</h1>
+  <h1>lyzorsh</h1>
   <p>cool devs & privacy-focused people</p>
 </div>
 <br>
 
-> <span>organization owned by <a href="https://github.com/Body-Alhoha">body</a></span></br>
-> <span>domain owned by <a href="https://github.com/verticalsync">verticalsync (nyx)</a></span>
+> <span>organization owned by <a href="https://github.com/doxiado-dev">dox</a></span></br>
+> <span>domain owned by <a href="https://github.com/CoffinCorp">CoffinCorp</a></span>
