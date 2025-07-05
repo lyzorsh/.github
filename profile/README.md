@@ -7,4 +7,4 @@
 <br>
 
 > <span>organization owned by <a href="https://github.com/doxiado-dev">dox</a></span></br>
-> <span>domain owned by <a href="https://github.com/CoffinCorp">CoffinCorp</a></span>
+> <span>domain owned by <a href="https://github.com/CoffinCorp">Lush Industries</a></span>
